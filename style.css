@@ -4,8 +4,8 @@ body {
     font-family: popins;
 }
 
-.container {
-    /* margin-top: 15%; */
+.hola img {
+    background: none;
 }
 
 .img-text {
@@ -63,5 +63,5 @@ body {
 }
 
 .carousel-indicators .active {
-    background: fff;
+    background: #fff;
 }
